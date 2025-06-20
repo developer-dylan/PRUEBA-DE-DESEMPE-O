@@ -1,6 +1,6 @@
-# Portafolio Web con Videojuegos
+# Pagina Web con Videojuegos
 
-Este es un proyecto de portafolio personal diseñado para mostrar información sobre mí y destacar una sección de videojuegos con imágenes, títulos, precios y botones de compra. El sitio está construido utilizando **HTML**, **CSS** y **JavaScript.
+Este es un proyecto de pagina diseñado para mostrar información nosotros y destacar una sección de videojuegos con imágenes, títulos, precios y botones de compra. El sitio está construido utilizando **HTML**, **CSS** y **JavaScript.
 
 ## Estructura del Proyecto
 
